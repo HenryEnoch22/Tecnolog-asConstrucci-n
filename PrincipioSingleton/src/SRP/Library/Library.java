@@ -1,6 +1,6 @@
-package SRP;
+package SRP.Library;
 
-import RefactoringSRP.Book;
+import RefactoringSRP.LibrarySRP.Book;
 
 public class Library {
     public String title;

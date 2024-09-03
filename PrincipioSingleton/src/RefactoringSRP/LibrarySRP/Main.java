@@ -1,4 +1,4 @@
-package RefactoringSRP;
+package RefactoringSRP.LibrarySRP;
 
 public class Main {
     public static void main(String[] args) {

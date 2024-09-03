@@ -1,4 +1,4 @@
-package RefactoringSRP;
+package RefactoringSRP.LibrarySRP;
 
 public class Book {
     private String title;
