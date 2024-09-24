@@ -1,0 +1,4 @@
+package Calentador
+
+class CalentadorGas {
+}

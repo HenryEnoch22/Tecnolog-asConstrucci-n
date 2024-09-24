@@ -1,0 +1,4 @@
+package TempHabitacion
+
+class TempHabitacion {
+}

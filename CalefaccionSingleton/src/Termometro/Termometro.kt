@@ -1,0 +1,4 @@
+package Termometro
+
+interface Termometro {
+}

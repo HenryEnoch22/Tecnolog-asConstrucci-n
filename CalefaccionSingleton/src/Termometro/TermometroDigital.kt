@@ -1,0 +1,4 @@
+package Termometro
+
+class TermometroDigital {
+}
